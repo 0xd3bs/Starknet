@@ -1,5 +1,5 @@
-# Starknet
-Starknet Basecamp Cairo
+# Starknet Basecamp
+
 Session 1: Fundamentals
 
 Why Starknet?
