@@ -1,6 +1,6 @@
-# Starknet & Cairo Basecamp
+# Starknet & Cairo Workshop
 
-### Session 1: Fundamentals
+## Fundamentals
 
 - Why Starknet?
 - Why Cairo?
@@ -9,7 +9,7 @@
 
 ---
 
-### Session 2: Deep Dive
+## Deep Dive
 
 - Account Abstraction
 - Universal Deployer Contract
@@ -18,14 +18,14 @@
 
 ---
 
-### Session 3: Cairo 1.0
+## Cairo 1.0
 
 - Complete Cairo 1.0 Syntax Overview
 - Cairo 1.0 Syscalls
 
 ---
 
-### Session 4: Testing
+## Testing
 
 - Local Manual Test (Devnet)
 - Unit Tests
@@ -33,7 +33,7 @@
 
 ---
 
-### Session 5: Starknet's Architecture
+## Starknet's Architecture
 
 - Tx Lifecycle
 - Sequencer
@@ -43,7 +43,7 @@
 
 ---
 
-### Session 6: Cairo's Architecture
+## Cairo's Architecture
 
 - CPU AIR Architecture
 - Registers (ap, fp, pc)
@@ -54,7 +54,7 @@
 
 ---
 
-### Session 7: STARKs
+## STARKs
 
 - Finite Field Arithmetic
 - Low Degree Extensions
